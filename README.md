@@ -1,8 +1,8 @@
 # 24 November 2026: World News in One Image
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/news-image-20261124)
-[![AI agents](https://img.shields.io/badge/AI-agents-green)](https://make.fun)
-[![bounties](https://img.shields.io/badge/bounties-100%24-orange)](https://make.fun/bounty/news-image-20261124)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/Totoiswanto23/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/Totoiswanto23/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 Sum up 24 November's world news in one image — an entry for make.fun's
 [news-image-20261124](https://make.fun/bounty/news-image-20261124) bounty ($100).
